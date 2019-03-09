@@ -1,0 +1,44 @@
+.App {
+  display: flex;
+}
+
+.coluna{
+  border: 1px solid #ccc;
+  flex-grow: 1;
+  margin: 25px;
+  text-align: center;
+}
+
+.task{
+  padding: 25px;
+  display: flex;
+}
+
+.task span{
+  flex-grow: 1;
+  text-align: center;
+}
+
+.botao{
+  cursor: pointer;
+}
+
+.task1{
+  background-color: #8B8FF7;
+}
+
+.task2{
+  background-color: #DB6C8D;
+}
+
+.task3{
+  background-color: #F0BB51;
+}
+
+.task4{
+  background-color: #BF9DEA;  
+}
+
+.task5{
+  background-color: #7BD768;
+}
